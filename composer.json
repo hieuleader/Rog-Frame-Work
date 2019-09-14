@@ -1,0 +1,14 @@
+{
+    "name": "trunghieu/rog-frame",
+    "description": "Rog PHP Framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DUONG TRUNG HIEU",
+            "email": "hieuleadergin@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.24"
+    }
+}
